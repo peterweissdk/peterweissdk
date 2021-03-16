@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Peter Weiss
+### This is my stash...
+
+- 👋 I’m Peter Weiss
 - 👀 I’m interested in everything Linux.
 - 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on... well, surprise me!
