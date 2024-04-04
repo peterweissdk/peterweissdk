@@ -2,7 +2,7 @@
 
 - 👋 I’m Peter Weiss
 - 👀 I’m interested in everything Linux.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Docker, and Kubernetes.
 - 💞️ I’m looking to collaborate on... well, surprise me!
 - 📫 peterweissdk@gmail.com
 
