@@ -3,6 +3,7 @@
 👋 Hi there! I'm **Peter Weiss**, a passionate Linux enthusiast skilled in automation, containerization, and virtualization.
 
 🌟 **What I'm All About:**
+- **Certified Kubernetes Administrator:** Kubernetes empowers me to efficiently manage, scale and secure applications seamlessly across diverse environments, enhancing both productivity and reliability.
 - **Linux Lover:** I thrive in the world of Linux and enjoy exploring its endless possibilities.
 - **Tech Explorer:** Currently diving deep into the realms of **Docker** and **Kubernetes** to master container orchestration and deployment.
 - **Open Source Advocate:** I believe in the power of open-source technology and its ability to drive innovation and collaboration.
