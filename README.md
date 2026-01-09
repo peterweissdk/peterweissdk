@@ -16,4 +16,4 @@ Feel free to reach out at [peterweissdk@gmail.com](mailto:peterweissdk@gmail.com
 
 ---
 
-Join me on this journey as we explore the fascinating world of technology together!
+In real open source, you have the right to control your own destiny.
