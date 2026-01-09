@@ -17,3 +17,4 @@ Feel free to reach out at [peterweissdk@gmail.com](mailto:peterweissdk@gmail.com
 ---
 
 In real open source, you have the right to control your own destiny.
+/Linus Torvalds
