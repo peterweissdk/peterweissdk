@@ -1,4 +1,4 @@
-# Welcome to My Stash! 🚀
+# Welcome to My Stash!
 
 👋 Hi there! I'm **Peter Weiss**, a passionate Linux enthusiast skilled in automation, containerization, and virtualization.
 
