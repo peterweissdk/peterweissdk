@@ -1,7 +1,7 @@
 # Welcome to My Stash!
 
 👋 Hi there! I'm **Peter Weiss**
-A passionate Linux enthusiast skilled in automation, containerization, and virtualization.
+- A passionate Linux enthusiast skilled in automation, containerization, and virtualization.
 
 
 🌟 **What I'm All About:**
