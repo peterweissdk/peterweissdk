@@ -11,6 +11,10 @@
 🤝 **Let's Collaborate!** 
 I'm always open to new ideas and projects. Whether you have a cool concept or need a helping hand, I'm excited to see what we can create together. Surprise me!
 
+🏢 **I have two organizations attached to this repository:**
+- **peterweissdk-priv**: Used for tools in my daily production work.
+- **peterweissdk-archived**: Used for archived projects that are no longer maintained.
+
 📫 **Connect with Me:**
 Feel free to reach out at [peterweissdk@gmail.com](mailto:peterweissdk@gmail.com). Let's chat about all things tech!
 
